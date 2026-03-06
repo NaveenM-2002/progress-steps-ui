@@ -16,5 +16,11 @@
 - Improve UI design
 - Convert it into a reusable component for web applications
 
+  ## Project Screenshot
+
+![Progress Steps UI](screenshot.png)
+
 ## Author
 Naveen M
+
+
